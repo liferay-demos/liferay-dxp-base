@@ -1,0 +1,9 @@
+{
+  "id": "es",
+  "cpu": 2,
+  "memory": 2048,
+  "zeroDowntime": false,
+  "volumes": {
+    "es": "/usr/share/elasticsearch/data"
+  }
+}

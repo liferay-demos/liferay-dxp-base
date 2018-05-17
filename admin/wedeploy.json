@@ -1,0 +1,5 @@
+{
+  "id": "admin",
+  "image": "adminer:4.6",
+  "dependencies": ["db"]
+}
